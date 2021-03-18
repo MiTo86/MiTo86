@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MiTo86
-- 👀 I’m interested in strenghtening my skills and learning new ones....
+- 👋 Hi, I’m @MiTo86.
+- 👀 I’m interested in strenghtening my skills and learning new ones.
 - 🌱 I’m use this repository for practice and my own information.
 
 <!---
